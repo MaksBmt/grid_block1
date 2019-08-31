@@ -48,7 +48,7 @@ $colorText: #555555;
     position: relative;
     width: 104px;
     height: 104px;
-    @include transition($trProperty: border-color);
+     
     //transition-property: border-color;
     //transition-duration: 500ms;
 }
